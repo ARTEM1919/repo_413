@@ -1,3 +1,13 @@
 ghbmvcm,
 dnvcnxjl vkvv
 nmbm
+
+
+
+The Python Software Foundation (PSF) is the charitable 
+organization behind Python, dedicated to advancing, sup
+porting, and protecting the Python programming language and the community that sustains it. That mission and cause are more than just words we believe in. Our tiny but mighty team works har
+d to deliver the projects and services that allow Python
+ to be the thriving, independent, community-driven language it is today. Some of what the PSF does includes producing PyCon US, hostin
+g the Python Packaging Index (PyPI), awarding grants to P
+ython initiatives worldwide, maintaining critical community infrastructure, and more.
